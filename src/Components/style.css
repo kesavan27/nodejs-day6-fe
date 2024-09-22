@@ -1,0 +1,33 @@
+#logincontent{
+    width:100vw;
+    height:100vh;
+    background-color: rgb(117,194,90);
+}
+
+input{
+     border: none !important;
+    border-radius: 0 !important;
+    background-color:#F2F2F2 !important;
+    
+}
+
+select{
+    border: none !important;
+    border-radius: 0 !important;
+    background-color:#F2F2F2 !important;
+}
+
+#inputForm{
+    background-color: rgb(255,254,255);
+}
+
+button{
+    border-radius:0 !important;
+    width: 100%;
+    background-color: rgb(0,178,65) !important;
+}
+
+
+.newregister{
+    background-color: none !important;
+}
